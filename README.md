@@ -19,6 +19,7 @@ Contributors
 
 * Brendan McNamara (brendan.d.mcnamara@vanderbilt.edu)
 * Will Pascucci (william.m.pascucci@vanderbilt.edu)
+* Fangzhou Sun (fangzhou.sun@vanderbilt.edu)
 
 ###Andoid
 
