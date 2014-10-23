@@ -24,6 +24,8 @@ Contributors
 
 ###Andoid
 
+* Alex Meyer (alex.t.meyer@vanderbilt.edu)
+* Michael Nakayama (david.m.nakayama@vanderbilt.edu)
 * Liyan Hou (liyan.hou@vanderbilt.edu)
 
 ###Backend
