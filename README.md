@@ -11,3 +11,21 @@ User Stories / Acceptance Critera:
 * As a user, I want delete my posts -- After I delete a post I should not see it in the listview.
 * As a user, I want to view detailed info on a post -- Show the detailed info of the post.
 * As a user, I can see my own post -- My post appears on the listview.
+
+Contributors
+============
+
+###iOS
+
+* Brendan McNamara (brendan.d.mcnamara@vanderbilt.edu)
+* Will Pascucci (william.m.pascucci@vanderbilt.edu)
+
+###Andoid
+
+* Liyan Hou (liyan.hou@vanderbilt.edu)
+
+###Backend
+
+* Monica Hedda (monica.hedda@vanderbilt.edu)
+* Jake Bray (jake.d.bray@vanderbilt.edu)
+* a.wan@vnaderbilt.edu
