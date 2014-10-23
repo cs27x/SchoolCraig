@@ -20,11 +20,10 @@ Contributors
 * Brendan McNamara (brendan.d.mcnamara@vanderbilt.edu)
 * Will Pascucci (william.m.pascucci@vanderbilt.edu)
 * Fangzhou Sun (fangzhou.sun@vanderbilt.edu)
-* Oliver Dormody (oliver.j.dormody@vanderbilt.edu)
+* Xiaochen Yang (xiaochen.yang@vanderbilt.edu)
 
 ###Andoid
 
-* Alex Meyer (alex.t.meyer@vanderbilt.edu)
 * Liyan Hou (liyan.hou@vanderbilt.edu)
 
 ###Backend
