@@ -34,3 +34,18 @@ Contributors
 * Jake Bray (jake.d.bray@vanderbilt.edu)
 * Alex Wan (a.wan@vanderbilt.edu)
 * MingYang Lu (mingyang.lu@vanderbilt.edu)
+
+
+Process
+=======
+
+We will use Trello as a mechanism for team collaboration.
+
+The project is broken down into two major teams: Front-End and Back-End. The Front-End team is broken into iOS and Android teams.
+
+Between the Front-End and Back-End teams, the main point of communication is the HTTP API. This API is documented, tested, and implemented by the Back-End team with suggestions submitted by the Front-End team. The API documentation will be provided by the Back-End team using swagger so the Front-End team can implement the clients.
+
+Between the iOS team and Android team, the main point of communication is the Wireframes (submitted on Trello). These WireFrames help communicate which features need implementing and how they should look on the mobile client (so the two clients have similar UI's).
+
+Each individual team is responsible for managing itself and meeting deadlines that are agreed upon when all the teams meet in class.
+
