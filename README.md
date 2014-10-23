@@ -22,7 +22,7 @@ Contributors
 * Fangzhou Sun (fangzhou.sun@vanderbilt.edu)
 * Xiaochen Yang (xiaochen.yang@vanderbilt.edu)
 
-###Andoid
+###Android
 
 * Alex Meyer (alex.t.meyer@vanderbilt.edu)
 * Michael Nakayama (david.m.nakayama@vanderbilt.edu)
@@ -32,5 +32,5 @@ Contributors
 
 * Monica Hedda (monica.hedda@vanderbilt.edu)
 * Jake Bray (jake.d.bray@vanderbilt.edu)
-* a.wan@vnaderbilt.edu
+* Alex Wan (a.wan@vanderbilt.edu)
 * MingYang Lu (mingyang.lu@vanderbilt.edu)
