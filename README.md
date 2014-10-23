@@ -29,7 +29,7 @@ Contributors
 * Liyan Hou (liyan.hou@vanderbilt.edu)
 
 ###Backend
-
+* Walton Seymour (walton.l.seymour@vanderbilt.edu)
 * Monica Hedda (monica.hedda@vanderbilt.edu)
 * Jake Bray (jake.d.bray@vanderbilt.edu)
 * Alex Wan (a.wan@vanderbilt.edu)
