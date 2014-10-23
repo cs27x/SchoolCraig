@@ -39,7 +39,8 @@ Contributors
 Process
 =======
 
-We will use Trello as a mechanism for team collaboration.
+We will use Trello as a mechanism for team collaboration:
+https://trello.com/b/wGK3Z0pi/schoolcraig
 
 The project is broken down into two major teams: Front-End and Back-End. The Front-End team is broken into iOS and Android teams.
 
