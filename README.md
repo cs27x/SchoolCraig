@@ -27,6 +27,7 @@ Contributors
 * Alex Meyer (alex.t.meyer@vanderbilt.edu)
 * Michael Nakayama (david.m.nakayama@vanderbilt.edu)
 * Liyan Hou (liyan.hou@vanderbilt.edu)
+* Violetta Vylegzhanina (violetta.vylegzhanina@vanderbilt.edu)
 
 ###Backend
 * Walton Seymour (walton.l.seymour@vanderbilt.edu)
