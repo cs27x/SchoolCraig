@@ -21,6 +21,7 @@ Contributors
 * Will Pascucci (william.m.pascucci@vanderbilt.edu)
 * Fangzhou Sun (fangzhou.sun@vanderbilt.edu)
 * Xiaochen Yang (xiaochen.yang@vanderbilt.edu)
+* Oliver Dormody (oliver.j.dormody@vanderbilt.edu)
 
 ###Android
 
